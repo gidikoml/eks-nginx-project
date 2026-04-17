@@ -147,4 +147,44 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-⭐ *Open to DevOps / SRE / Cloud Engineer opportunities*
+⭐ *Open to DevOps / SRE / Cloud Engineer opportunities*---
+
+## 🧪 Real DevOps Work (Hands-On)
+
+### ☸️ Kubernetes RBAC
+![K8s RBAC](./diagrams/k8s-rbac.png)
+
+✔ RoleBinding & ServiceAccount  
+✔ Permission validation with kubectl  
+
+---
+
+### 🔄 CI/CD Pipeline (Jenkins)
+![Jenkins](./diagrams/jenkins-pipeline.png)
+
+✔ Terraform automation  
+✔ Pipeline stages (init, plan, apply)  
+
+---
+
+### 🚀 GitOps Deployment (ArgoCD)
+![ArgoCD](./diagrams/argocd.png)
+
+✔ Git-based deployment  
+✔ Sync & rollback  
+
+---
+
+### 🔐 DevSecOps (Security Scan)
+![Security](./diagrams/security-scan.png)
+
+✔ CVE detection  
+✔ Vulnerability analysis  
+
+---
+
+### 📊 Monitoring (Grafana)
+![Grafana](./diagrams/grafana-dashboard.png)
+
+✔ CPU & network monitoring  
+✔ CloudWatch integration  
