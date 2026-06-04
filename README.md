@@ -32,18 +32,16 @@ It simulates a production-like DevOps environment with deployment automation and
 ## Author
 Komlavi Gidieks-nginx-project
 
-# 👋 Hi, I'm Komlavi Gidi
+# Hi, I'm Komlavi Gidi
 
-🚀 **Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD**
+**Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD**
 
-📍 Maryland, USA  
+Maryland, USA  
 
-📄 **Resume:**  
-👉 [Download Resume](https://raw.githubusercontent.com/gidikoml/gidikoml/main/Komlavi_Gidi_Resume.pdf)
 
 ---
 
-## 🏆 Badges
+##  Badges
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
@@ -55,25 +53,25 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-- ☁️ **Cloud:** AWS (EKS, ECS, EC2, S3, IAM)
-- 🐳 **Containers:** Docker, Kubernetes (EKS)
-- ⚙️ **IaC:** Terraform, CloudFormation
-- 🔄 **CI/CD:** GitHub Actions, Jenkins, GitLab CI/CD
-- 📊 **Monitoring:** Prometheus, Grafana, Alertmanager, CloudWatch
-- 🔐 **Security:** IAM, Vault, RBAC
+- **Cloud:** AWS (EKS, ECS, EC2, S3, IAM)
+- **Containers:** Docker, Kubernetes (EKS)
+-  **IaC:** Terraform, CloudFormation
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI/CD
+- **Monitoring:** Prometheus, Grafana, Alertmanager, CloudWatch
+-  **Security:** IAM, Vault, RBAC
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🔹 SRE Observability Platform
+### SRE Observability Platform
 ✔ Prometheus + Grafana dashboards  
 ✔ Alertmanager + PagerDuty integration  
 ✔ Real-time alerting system  
 
-👉 https://github.com/gidikoml/sre-observability-project
+https://github.com/gidikoml/sre-observability-project
 
 ---
 
@@ -86,14 +84,14 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-### 🔹 Kubernetes Autoscaling (EKS)
+### Kubernetes Autoscaling (EKS)
 ✔ Cluster Autoscaler with Helm  
 ✔ Scalable AWS infrastructure  
 ✔ High availability setup  
 
 ---
 
-## 🚧 Projects In Progress
+## Projects In Progress
 
 ### 🔸 Enterprise Observability Platform (EKS)
 ✔ Prometheus + Grafana + Alertmanager  
@@ -102,28 +100,28 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-### 🔸 GitOps CI/CD Pipeline (ArgoCD)
+### GitOps CI/CD Pipeline (ArgoCD)
 ✔ Automated Kubernetes deployments  
 ✔ Environment-based configuration  
 ✔ Goal: Fully automated GitOps workflow  
 
 ---
 
-### 🔸 Multi-Cloud Infrastructure (AWS + GCP)
+Multi-Cloud Infrastructure (AWS + GCP)
 ✔ Terraform provisioning  
 ✔ Cross-cloud architecture  
 ✔ Goal: High availability & failover  
 
 ---
 
-### 🔸 DevSecOps Pipeline
+###  DevSecOps Pipeline
 ✔ Security scanning (Trivy, SonarQube)  
 ✔ Secure CI/CD pipelines  
 ✔ Goal: End-to-end security automation  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Komlavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidikoml&show_icons=true&theme=dark)
 
@@ -131,7 +129,7 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-## 🔥 What I Bring
+## What I Bring
 
 ✔ Scalable cloud infrastructure  
 ✔ CI/CD automation pipelines  
@@ -141,17 +139,17 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - GitHub: https://github.com/gidikoml  
 
 ---
 
-⭐ *Open to DevOps / SRE / Cloud Engineer opportunities*---
+*Open to DevOps / SRE / Cloud Engineer opportunities*---
 
-## 🧪 Real DevOps Work (Hands-On)
+## Real DevOps Work (Hands-On)
 
-### ☸️ Kubernetes RBAC
+### Kubernetes RBAC
 ![K8s RBAC](./diagrams/k8s-rbac.png)
 
 ✔ RoleBinding & ServiceAccount  
@@ -159,7 +157,7 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-### 🔄 CI/CD Pipeline (Jenkins)
+### CI/CD Pipeline (Jenkins)
 ![Jenkins](./diagrams/jenkins-pipeline.png)
 
 ✔ Terraform automation  
@@ -167,7 +165,7 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-### 🚀 GitOps Deployment (ArgoCD)
+### GitOps Deployment (ArgoCD)
 ![ArgoCD](./diagrams/argocd.png)
 
 ✔ Git-based deployment  
@@ -175,7 +173,7 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-### 🔐 DevSecOps (Security Scan)
+###  DevSecOps (Security Scan)
 ![Security](./diagrams/security-scan.png)
 
 ✔ CVE detection  
@@ -183,7 +181,7 @@ Komlavi Gidieks-nginx-project
 
 ---
 
-### 📊 Monitoring (Grafana)
+### Monitoring (Grafana)
 ![Grafana](./diagrams/grafana-dashboard.png)
 
 ✔ CPU & network monitoring  
